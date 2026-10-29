@@ -14,9 +14,9 @@ node scripts/validate-mod.mjs
 
 ## Models and camera
 
-The original HD download lives in `3d_model/HD/source/` with its supplied textures beside it. Run `npm run prepare:hd` to create the local runtime GLB under `public/3d_model/HD/`. Auto uses HD inside 15 metres and the procedural silhouette farther away; either level can also be selected directly in Aircraft → Model detail. Model bytes are fetched only when that level is needed after applying the aircraft.
+The HD level is the official DJI 3D model. Its source lives in `3d_model/HD/source/` with its textures beside it. Run `npm run prepare:hd` to create the local runtime GLB under `public/3d_model/HD/`. Auto uses HD inside 15 metres and the procedural silhouette farther away; either level can also be selected directly in Aircraft → Model detail. Model bytes are fetched only when that level is needed after applying the aircraft.
 
-These are local reference files by yigeshichen, with CC BY-NC 4.0 attribution carried on the HD choice. They are ignored by Git. The repository's AGPL code licence does not relicense the model.
+The model files are ignored by Git. The flight build links the prepared GLB, so the default modpack ships it on the site. The repository's AGPL code licence does not relicense the model.
 
 The aircraft manifest declares its own chase distance, zoom limits and near clip. Pilot overrides in the existing Camera settings take precedence.
 

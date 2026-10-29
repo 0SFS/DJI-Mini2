@@ -167,10 +167,8 @@
             "path": "3d_model/HD/dji-mini2.glb",
             "autoFromMeters": 0,
             "credit": {
-              "artist": "yigeshichen",
-              "note": "Original Sketchfab model; recentered and converted to metres. Local reference file.",
-              "licence": "CC BY-NC 4.0",
-              "sourceUrl": "https://sketchfab.com/3d-models/dji-mini-2-85678e6bf8a74829984193fed2d025b5"
+              "artist": "DJI",
+              "note": "Official DJI 3D model."
             }
           },
           {

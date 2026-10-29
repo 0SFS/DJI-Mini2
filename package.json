@@ -11,6 +11,6 @@
   },
   "scripts": {
     "validate": "node scripts/validate-mod.mjs",
-    "prepare:hd": "node ../fly/scripts/prepare-aircraft-hd.mjs \"3d_model/HD/source/DJI mini2.glb\" public/3d_model/HD/dji-mini2.glb 1 https://sketchfab.com/3d-models/dji-mini-2-85678e6bf8a74829984193fed2d025b5 3d_model/HD/rotors.json 3d_model/HD/gimbal.json"
+    "prepare:hd": "node ../fly/scripts/prepare-aircraft-hd.mjs \"3d_model/HD/source/DJI mini2.glb\" public/3d_model/HD/dji-mini2.glb 1 \"Official DJI 3D model\" 3d_model/HD/rotors.json 3d_model/HD/gimbal.json"
   }
 }
