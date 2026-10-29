@@ -1,0 +1,46 @@
+[
+  {
+    "blades": [
+      "polySurface58",
+      "polySurface61"
+    ],
+    "center": [
+      -0.08773,
+      1.875,
+      0.06481
+    ]
+  },
+  {
+    "blades": [
+      "polySurface80",
+      "polySurface81"
+    ],
+    "center": [
+      0.08773,
+      1.875,
+      0.06481
+    ]
+  },
+  {
+    "blades": [
+      "polySurface84",
+      "polySurface89"
+    ],
+    "center": [
+      -0.08438,
+      1.853,
+      -0.06039
+    ]
+  },
+  {
+    "blades": [
+      "polySurface95",
+      "polySurface102"
+    ],
+    "center": [
+      0.08438,
+      1.853,
+      -0.06039
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+*.tgz
+
+# Local reference files, not part of the repository.
+3d_model/HD/source/
+3d_model/HD/textures/
+public/3d_model/HD/*.glb
+.DS_Store

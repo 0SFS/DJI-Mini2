@@ -1,0 +1,16 @@
+{
+  "name": "@0sfs/dji-mini2",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DJI Mini 2 aircraft mod for 0SFS.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "exports": {
+    "./manifest": "./public/0sfs-mod.json",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-mod.mjs",
+    "prepare:hd": "node ../fly/scripts/prepare-aircraft-hd.mjs \"3d_model/HD/source/DJI mini2.glb\" public/3d_model/HD/dji-mini2.glb 1 https://sketchfab.com/3d-models/dji-mini-2-85678e6bf8a74829984193fed2d025b5 3d_model/HD/rotors.json 3d_model/HD/gimbal.json"
+  }
+}
