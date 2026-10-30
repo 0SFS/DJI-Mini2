@@ -5,9 +5,20 @@
       "polySurface61"
     ],
     "center": [
-      -0.08773,
-      1.875,
-      0.06481
+      -0.088048,
+      1.874972,
+      0.064343
+    ],
+    "axis": [
+      -0.0282,
+      0.9987,
+      -0.0415
+    ],
+    "motor": [
+      "polySurface53",
+      "polySurface56",
+      "polySurface57",
+      "polySurface60"
     ]
   },
   {
@@ -16,9 +27,20 @@
       "polySurface81"
     ],
     "center": [
-      0.08773,
-      1.875,
-      0.06481
+      0.088047,
+      1.874972,
+      0.064344
+    ],
+    "axis": [
+      0.0282,
+      0.9987,
+      -0.0415
+    ],
+    "motor": [
+      "polySurface76",
+      "polySurface74",
+      "polySurface72",
+      "polySurface73"
     ]
   },
   {
@@ -27,9 +49,20 @@
       "polySurface89"
     ],
     "center": [
-      -0.08438,
-      1.853,
-      -0.06039
+      -0.085211,
+      1.852926,
+      -0.060544
+    ],
+    "axis": [
+      -0.089,
+      0.996,
+      -0.002
+    ],
+    "motor": [
+      "polySurface90",
+      "polySurface91",
+      "polySurface92",
+      "polySurface93"
     ]
   },
   {
@@ -38,9 +71,20 @@
       "polySurface102"
     ],
     "center": [
-      0.08438,
-      1.853,
-      -0.06039
+      0.085212,
+      1.852925,
+      -0.060543
+    ],
+    "axis": [
+      0.089,
+      0.996,
+      -0.002
+    ],
+    "motor": [
+      "polySurface96",
+      "polySurface97",
+      "polySurface94",
+      "polySurface98"
     ]
   }
 ]
